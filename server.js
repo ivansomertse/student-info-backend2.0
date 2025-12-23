@@ -17,7 +17,7 @@ app.use(
       "http://localhost:5500",
       "http://127.0.0.1:5500",
       "http://localhost:3000",
-      "https://student-info-system.vercel.app"
+      "https://student-info-systemv20.vercel.app"
     ],
     methods: ["GET", "POST", "DELETE", "OPTIONS"],
   })
